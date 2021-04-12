@@ -1,2 +1,2 @@
 # quantum-computing-extravaganza
- A compilation of everything quantum! 
+A compilation of everything quantum! 
